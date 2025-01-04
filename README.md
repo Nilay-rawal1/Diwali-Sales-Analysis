@@ -5,6 +5,7 @@ This repository contains a detailed exploratory data analysis (EDA) of Diwali sa
 ## Project Overview
 
 Diwali, the festival of lights, is one of the biggest shopping seasons in India. Retailers often see a significant spike in sales during this period. By analyzing sales data, this project identifies patterns and trends, helping businesses understand their customers better and maximize revenue.
+
 ![image](https://github.com/user-attachments/assets/a70cd929-b8cc-4b77-9b5c-4cc887d6494a)
 
 ### Objectives
@@ -57,3 +58,11 @@ The dataset is pre-processed to remove inconsistencies and ensure clean data for
 1. Clone this repository:
    ```bash
    git clone https://github.com/Nilay-rawal1/Diwali-Sales-Analysis.git
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook Diwali_Sales_Analysis.ipynb
+4. Explore the anaylsis and Visulalisation provided.
+   
